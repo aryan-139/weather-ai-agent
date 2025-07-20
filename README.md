@@ -47,8 +47,8 @@ The application follows a simple, robust workflow:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone weather-ai-agent
+    cd weather-ai-agent
     ```
 
 2.  **Create and activate a virtual environment:**
