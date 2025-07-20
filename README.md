@@ -3,6 +3,8 @@
 A simple yet powerful FastAPI application that acts as an intelligent agent for weather-related queries. It uses an Ollama-hosted LLM for natural language understanding and the OpenWeatherMap API to fetch real-time weather data.
 
 -----
+## Representational Image 
+<img width="760" height="578" alt="image" src="https://github.com/user-attachments/assets/c8184ad3-79d1-43eb-9a76-ab9912471b67" />
 
 ## ✨ Features
 
